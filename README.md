@@ -9,7 +9,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/moupiya-mondal" target="_blank">
+  <a href="https://www.linkedin.com/in/moupiya-mondal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://devfolio.co/@itsmoupiya" target="_blank">
