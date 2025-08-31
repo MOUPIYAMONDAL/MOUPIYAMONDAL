@@ -5,7 +5,7 @@
 
 <!-- Greeting -->
 <h1 align="center">Hi 👋, I'm Moupiya Mondal</h1>
-<h3 align="center">Writing the code I once wished existed </h3>
+<h3 align="center">Actively learning new technologies and working on projects</h3>
 
 <!-- Social Links -->
 <p align="center">
