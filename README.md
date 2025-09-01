@@ -7,14 +7,19 @@
 <h1 align="center">Hi 👋, I'm Moupiya Mondal</h1>
 <h3 align="center">Actively learning new technologies and working on projects</h3>
 
-<!-- Social Links -->
+  <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/moupiya-mondal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://devfolio.co/@itsmoupiya" target="_blank">
-    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio">
+  <a href="https://x.com/Moupiya_Mondal_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+  <a href="1249780558284984472" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
+
 </p>
 
 <!-- About Section -->
@@ -59,4 +64,5 @@
 ### 📚 Others
 - Object-Oriented Programming (OOP)
 - Responsive Web Design
+
 
